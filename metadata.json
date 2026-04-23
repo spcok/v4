@@ -1,0 +1,6 @@
+{
+  "name": "KOA Manager V3",
+  "description": "ZLA 1981-compliant animal management system with local-first Postgres architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
